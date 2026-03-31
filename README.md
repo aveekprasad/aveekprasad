@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ===== ANIMATED HEADER BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Aveek%20Prasad&fontSize=68&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=CS%20(AI)%20%7C%20Systems%20Thinker%20%7C%20Builder&descAlignY=58&descAlign=50&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Aveek%20Prasad&fontSize=68&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Systems%20Thinker%20%7C%20Builder%20%7C%20AI%20Explorer&descAlignY=58&descAlign=50&descSize=20" />
 
 <!-- ===== TYPING ANIMATION ===== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=680&lines=CS+(Artificial+Intelligence)+Student;First-Principles+Thinker+%7C+Systems+Explorer;Building+AI+Tools+%26+Human+OS+Frameworks;Optimizing+for+Energy+%26+Time+%E2%8F%B1%EF%B8%8F;Question+everything.+Build+what+remains." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=680&lines=First-Principles+Thinker+%7C+Systems+Explorer;Building+AI+Tools+%26+Human+OS+Frameworks;Optimizing+for+Energy+%26+Time+%E2%8F%B1%EF%B8%8F;Question+everything.+Build+what+remains." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 ```python
 class AveekPrasad:
     def __init__(self):
-        self.domain      = "Computer Science — Artificial Intelligence"
+        self.domain      = "Computer Science — Data Science"
         self.mindset     = "First-principles thinker. Break it down. Build it back."
 
         self.focus_areas = [
@@ -60,17 +60,7 @@ class AveekPrasad:
             optimize()       # energy × time → output
 ```
 
----
 
-## 🌌 Project Aum
-
-> *"A structured human operating system — built around the twin axes of **Prana** (energy) and **Kala** (time)."*
-
-This is Aveek's long-horizon initiative — not just a tool, but a framework for how humans can operate at their highest capacity. Think of it as an OS, but for the mind and body.
-
-`Energy Management` · `Time Architecture` · `AI-Assisted Workflows` · `Cognitive Systems Design`
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -82,7 +72,7 @@ This is Aveek's long-horizon initiative — not just a tool, but a framework for
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/antigravity-FFD43B?style=for-the-badge&logo=python&logoColor=black" title="import antigravity 🚀" />
+
 </p>
 
 ### ⚙️ Tools & Platforms
@@ -90,7 +80,7 @@ This is Aveek's long-horizon initiative — not just a tool, but a framework for
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
 </p>
 
 ### 🧩 Thinking & Systems Tools
@@ -116,17 +106,7 @@ This is Aveek's long-horizon initiative — not just a tool, but a framework for
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aveekprasad&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -156,11 +136,11 @@ This is Aveek's long-horizon initiative — not just a tool, but a framework for
 
 <div align="center">
 
-<a href="https://linkedin.com/in/aveekprasad">
+<a href="https://www.linkedin.com/in/aveek-kumar-08244a381/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:aveekkumar608@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
@@ -179,3 +159,16 @@ This is Aveek's long-horizon initiative — not just a tool, but a framework for
 <i>"Don't optimize the wrong system. Redesign it."</i>
 
 </div>
+
+    
+
+        
+
+
+
+
+
+
+
+
+
